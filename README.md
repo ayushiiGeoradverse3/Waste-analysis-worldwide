@@ -1,6 +1,45 @@
 # Waste-analysis-worldwide
 **Report: Analysis of Waste Composition and Management Trends**
 
+<h2 align="left"></h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushiiGeoradverse3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ayushiiGeoradverse3/ayushiiGeoradverse3/output/snake.svg" alt="Snake animation" />
+
+###
+
 **1. Data Acquisition and Initial Exploration**  
 The analysis begins by importing essential data manipulation and visualization libraries. The dataset on municipal waste composition is loaded, and initial exploration includes displaying the first few rows, dataset dimensions, data types, missing values, and descriptive statistics. This step ensures a foundational understanding of the dataset's structure, including variables like country, waste materials (e.g., plastics, paper), and their quantities.
 
