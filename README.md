@@ -32,10 +32,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ayushiiGeoradverse3/ayushiiGeoradverse3/output/snake.svg" alt="Snake animation" />
-
 ###
 
 **1. Data Acquisition and Initial Exploration**  
