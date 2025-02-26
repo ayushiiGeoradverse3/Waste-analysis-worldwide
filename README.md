@@ -5,14 +5,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushiiGeoradverse3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -54,4 +46,12 @@ The latest available year's plastic waste data is highlighted in a bar chart, sh
 
 **7. Robustness and Error Handling**  
 Throughout the analysis, checks ensure critical columns (e.g., "Country") are present. File availability is verified, and errors are gracefully handled to prevent runtime interruptions. Numeric conversions and missing value checks further enhance data integrity.
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushiiGeoradverse3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
