@@ -22,10 +22,3 @@ The latest available year's plastic waste data is highlighted in a bar chart, sh
 **7. Robustness and Error Handling**  
 Throughout the analysis, checks ensure critical columns (e.g., "Country") are present. File availability is verified, and errors are gracefully handled to prevent runtime interruptions. Numeric conversions and missing value checks further enhance data integrity.
 
-**Key Insights**  
-- **Regional Disparities**: Certain countries dominate specific waste categories, suggesting targeted policy needs.  
-- **Material Correlations**: Positive correlations between materials like paper and glass may indicate shared sources or disposal practices.  
-- **Recycling Gaps**: Higher plastic waste does not always align with recycling rates, pointing to inefficiencies.  
-- **Hazardous Waste Trends**: Per capita hazardous waste varies significantly, with some countries showing rising trends.  
-
-This comprehensive approach provides actionable insights for waste management strategies, emphasizing the need for tailored interventions based on material composition, regional practices, and recycling infrastructure.
